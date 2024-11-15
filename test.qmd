@@ -1,0 +1,17 @@
+---
+title: Index
+keep-md: true
+---
+
+## Section
+
+::: {#fig-example}
+
+```{r}
+plot(1)
+```
+
+Caption
+:::
+
+@fig-example is an example.
